@@ -1,5 +1,5 @@
 <%@page import="java.util.ArrayList"%>
-<%@page import="mg.ando.framework.web.util.ServletManager"%>
+<%@page import="system.utils.ServletManager"%>
 <%
     ServletManager servletManager = new ServletManager();
     
